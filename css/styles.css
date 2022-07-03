@@ -15,6 +15,7 @@ body {
     color: #212529;
     text-align: left;
     background-color: #8AA88A;
+    overflow-x: hidden;
 }
 
 a {
@@ -45,7 +46,7 @@ a:hover {
 }
 
 header {
-    padding: 10px;
+    padding: 10px 20px;
 }
 
 .move-right {
